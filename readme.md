@@ -25,25 +25,21 @@ Este é um projeto simples de **Amigo Secreto**, onde os usuários podem adicion
 ## 📌 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone 
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd amigo-secreto
+   cd challenge-amigo-secreto_pt-main
    ```
 3. Abra o arquivo `index.html` no navegador.
 4. Digite os nomes e clique em "Adicionar".
 5. Quando todos os participantes estiverem na lista, clique em "Sortear Amigo" para ver o resultado.
 
-## 📷 Captura de Tela
-![Amigo Secreto](assets/amigo-secreto.png)
-
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir! Faça um **fork** do repositório, crie uma **branch**, implemente suas melhorias e envie um **pull request**. 😃
 
 ## 📝 Licença
-Este projeto está sob a licença MIT. Para mais informações, leia o arquivo `LICENSE`.
 
 ---
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario) 🚀
+Feito com ❤️ por [PG] 🚀
 
